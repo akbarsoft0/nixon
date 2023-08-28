@@ -1,3 +1,3 @@
 # nixon
 
-URL - https://github.com/mohammad-akbar63/nixon
+[url] - (https://nixoninfo.netlify.app/)
