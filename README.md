@@ -1,3 +1,3 @@
 # nixon
 
-[url] - (https://nixoninfo.netlify.app/)
+URL - https://nixoninfo.netlify.app/
